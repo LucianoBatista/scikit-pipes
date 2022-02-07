@@ -10,6 +10,8 @@ matplotlib = "*"
 seaborn = "*"
 scikit-learn = "*"
 scikit-optimize = "*"
+jupyter = "*"
+plotly = "*"
 
 [dev-packages]
 ipykernel = "*"
